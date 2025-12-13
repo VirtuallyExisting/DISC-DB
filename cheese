@@ -1,8 +1,0 @@
-message Welcome to the `cheese` disc!
-message this disc is a
-time.wait 10
-message Hey guys, welcome back to today's Lost Bits video. I
-msg.gate tetrabitgaming
-message Mario 7? Is that the one I played? Let's check it out.
-fi
-message GRAND DAD?!
