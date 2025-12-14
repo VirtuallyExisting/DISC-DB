@@ -13,4 +13,4 @@
 # DISC-DB
 
 
-A database of programs for a discord bot.
+A database of programs for a discord (screw you discord) bot.
