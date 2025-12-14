@@ -1,0 +1,6 @@
+random 1,10
+message Guess a number from 1-10!
+msg.gate var:random
+message You got the number! The number was: var:random
+fi
+message Game Complete.
