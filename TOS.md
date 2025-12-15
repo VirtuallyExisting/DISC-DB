@@ -1,3 +1,13 @@
+<!-- This file is not meant to be used as a disc in DISC. You have been warned bozo.
+
+
+
+
+
+-->
+
+
+
 # DISC Terms Of Service
 - You are held 100% responsible for checking this TOS for updates, if a rule is updated or added and you violated it post-modification you have still violated it.
 
