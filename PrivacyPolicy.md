@@ -1,3 +1,14 @@
+<!-- This file is not meant to be used as a disc in DISC. You have been warned bozo.
+
+
+
+
+
+-->
+
+
+
+
 # DISC Privacy Policy
 - This shows what info we collect, how it's stored, and what we do with it (we don't do much!)
 - This privacy policy can change at any time, you are responsible for checking the changes and accepting them, we are not to be held liable.
